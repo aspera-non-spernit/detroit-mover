@@ -13,7 +13,7 @@
    version="1.1"
    id="svg7048"
    sodipodi:docname="detroit_map.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata7052">
     <rdf:RDF>
@@ -34,16 +34,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
      id="namedview7050"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.083787767"
-     inkscape:cx="6785"
-     inkscape:cy="4687.6482"
+     inkscape:zoom="0.33515107"
+     inkscape:cx="8175.5617"
+     inkscape:cy="3156.972"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7048"
      showguides="false"
@@ -85,7 +85,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccc" />
   <path
-     d="m 3041.4343,2195.6009 8084.8957,-247.749 -247.749,454.207 1007.515,528.533 -313.817,776.282 -363.366,189.942 -270.414,57.9883 453.965,941.6879 -572.357,77.0965 -283.917,-47.2626 -545.8315,201.5143 -443.6546,428.5937 -1569.604,762.1975 -547,794.89 -391.6396,-119.8356 -99.099,115.616 66.068,264.267 -322.075,-57.809 -181.685,-90.841 -495.499,916.673 -289.04,-371.624 90.843,-33.034 214.714,-412.916 -189.939,-338.591 355.106,-140.392 99.101,90.842 107.357,-57.808 82.583,-181.684 -90.84,-181.683 74.323,-189.941 -280.781,-553.308 -99.1,41.293 8.256,-272.525 239.494,-140.391 v -355.108 l -1172.684,41.292 16.519,454.207 -437.691,8.259 -8.261,115.616 -462.464,8.258 v -107.358 h -41.292 v -256.008 l -635.892,66.067 -49.549,-520.275 -41.291,-652.407 -165.167,16.516 -24.776,-916.673 h -239.491 z"
+     d="m 3196.1126,2203.0602 8084.8954,-247.749 -247.749,454.207 1007.515,528.533 -313.817,776.282 -363.366,189.942 -270.414,57.9883 453.965,941.6879 -572.357,77.0965 -283.917,-47.2626 -545.832,201.5143 -443.6538,428.5937 -1569.604,762.1975 -547,794.89 -391.6396,-119.8356 -99.099,115.616 66.068,264.267 -322.075,-57.809 -181.685,-90.841 -495.499,916.673 -289.04,-371.624 90.843,-33.034 214.714,-412.916 -189.939,-338.591 355.106,-140.392 99.101,90.842 107.357,-57.808 82.583,-181.684 -90.84,-181.683 74.323,-189.941 -280.781,-553.308 -99.1,41.293 8.256,-272.525 239.494,-140.391 0,-355.108 -1172.684,41.292 16.519,454.207 -437.691,8.259 -8.261,115.616 -462.464,8.258 0,-107.358 -41.292,0 0,-256.008 -635.892,66.067 -49.549,-520.275 -41.291,-652.407 -165.167,16.516 -24.776,-916.673 -239.491,0 z"
      style="fill:#f2f2f2;stroke:#ffffff;stroke-width:23"
      id="path5398"
      inkscape:connector-curvature="0"
@@ -295,8 +295,8 @@
   <text
      x="10030.482"
      y="3509.457"
-     style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
-     id="text5478">Gratiot @ Gethsemane Cemetary</text>
+     style="font-weight:bold;font-size:36px;font-family:'Roboto Condensed';white-space:pre"
+     id="text5478">Gratiot @ Gethsemane Cemetery</text>
   <path
      d="M 10106.639 3786.549 L 10114.761 3766.555"
      style="fill: none; stroke-width: 17; stroke: rgb(74, 45, 2);"
@@ -1415,7 +1415,7 @@
      y="4419.732"
      style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
      transform="matrix(1.081974, 0, 0, 1, 2515.803711, -2373.771729)"
-     id="text5936">Lasher @ 8 Mile</text>
+     id="text5936">John R @ 8 Mile</text>
   <text
      x="4641.71"
      y="4419.732"
@@ -1451,7 +1451,7 @@
      y="4419.732"
      style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
      transform="matrix(1.000001, 0, 0, 1, 2911.996826, -1936.706909)"
-     id="text5950">Lasher @ 7 Mile</text>
+     id="text5950">John R @ 7 Mile</text>
   <text
      x="4641.71"
      y="4419.732"
@@ -1481,7 +1481,7 @@
      y="4419.7319"
      style="font-weight:bold;font-size:36px;font-family:'Roboto Condensed';white-space:pre"
      transform="translate(6292.0972,-1938.1117)"
-     id="text5960">Kell Rd @ 7 Mile</text>
+     id="text5960">Kelly Rd @ 7 Mile</text>
   <text
      x="4641.71"
      y="4419.732"
@@ -1537,16 +1537,16 @@
      id="text5980">Kelly Rd / Spring Garden St</text>
   <text
      x="4641.71"
-     y="4419.732"
-     transform="matrix(1.000001, 0, 0, 1, -1370.111694, -2245.584473)"
-     style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
-     id="text5982">Lasher @ 8 Mile</text>
+     y="4419.7319"
+     transform="translate(-1370.1117,-2245.5845)"
+     style="font-weight:bold;font-size:36px;font-family:'Roboto Condensed';white-space:pre"
+     id="text5982">Telegraph @ 8 Mile</text>
   <text
      x="4641.71"
-     y="4419.732"
-     transform="matrix(1.000001, 0, 0, 1, -1812.726929, -2236.7771)"
-     style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
-     id="text5984">Lasher @ 8 Mile</text>
+     y="4419.7319"
+     transform="translate(-1812.7269,-2236.7771)"
+     style="font-weight:bold;font-size:36px;font-family:'Roboto Condensed';white-space:pre"
+     id="text5984">Beech Daly @ 8 Mile</text>
   <text
      x="1911.5111"
      y="2230.0759"
@@ -2759,10 +2759,10 @@
      style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
      id="text6442">West Side Industrial</text>
   <text
-     x="8579.096"
-     y="5919.589"
-     style="font-family: &quot;Roboto Condensed&quot;; font-size: 36px; font-weight: bold; white-space: pre;"
-     id="text6444">Joe Luis Arena</text>
+     x="8579.0957"
+     y="5919.5889"
+     style="font-weight:bold;font-size:36px;font-family:'Roboto Condensed';white-space:pre"
+     id="text6444">Joe Louis Arena</text>
   <path
      d="M 8563.161 5883.063 L 8547.161 5847.063"
      style="fill: none; stroke: rgb(3, 164, 222); stroke-width: 17;"
@@ -5859,4 +5859,15 @@
        style="font-weight:bold;font-size:540px;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
        id="text5908">Q</text>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="10502.727"
+     y="3384.6218"
+     id="text5418"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5420"
+       x="10502.727"
+       y="3384.6218">---------</tspan></text>
 </svg>
