@@ -42,8 +42,8 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="0.33515107"
-     inkscape:cx="8486.5582"
-     inkscape:cy="4251.5424"
+     inkscape:cx="7691.597"
+     inkscape:cy="8690.2342"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -109,7 +109,7 @@
      id="path5404"
      inkscape:connector-curvature="0" />
   <path
-     d="m 7305.273,4940.691 1329.59,-677.183 57.808,123.875 186.105,-72.827 84.081,56.895 374.548,-166.92 494.914,1025.201 -938.343,540.25 -36.991,-56.871 -77.03,3.654 -514.634,305.181 -341.258,200.867 -313.231,-604.94 -66.067,41.292 -239.492,-462.467 z"
+     d="m 6793.377,4940.691 1329.59,-677.183 57.808,123.875 186.105,-72.827 84.081,56.895 374.548,-166.92 494.914,1025.201 -938.343,540.25 -36.991,-56.871 -77.03,3.654 -514.634,305.181 -341.258,200.867 -313.231,-604.94 -66.067,41.292 -239.492,-462.467 z"
      style="fill:#ffffff;stroke-width:8"
      id="path5406"
      inkscape:connector-curvature="0" />
@@ -147,7 +147,7 @@
        id="text5568">THE</text>
   </g>
   <path
-     d="m 6398.3653,706.94764 -135.631,0.36788 L 8839.013,5792.382"
+     d="M 6398.3653,706.94764 6403.1049,985.7843 8839.013,5792.382"
      style="fill:none;stroke:#900000;stroke-width:17"
      id="path5416"
      inkscape:connector-curvature="0"
@@ -3455,7 +3455,7 @@
      style="fill:#ffffff;stroke:#000000"
      id="ellipse6714" />
   <path
-     d="M 7890.769,4638.148 7874.63,4606.88"
+     d="m 8033.4285,4917.8726 -16.139,-31.268"
      style="fill:none;stroke:#03a4de;stroke-width:17"
      id="path6728"
      inkscape:connector-curvature="0" />
@@ -3869,8 +3869,8 @@
      inkscape:connector-curvature="0" />
   <rect
      transform="matrix(1,0,0.0180031,0.99983793,0,0)"
-     x="6347.8843"
-     y="693.9754"
+     x="6351.5332"
+     y="699.60132"
      width="54.682053"
      height="21.426451"
      style="fill:#ffffff;stroke:#000000;stroke-width:1.00008106"
@@ -5917,5 +5917,5 @@
        id="tspan1830"
        x="6363.7349"
        y="1388.3053"
-       style="stroke-width:0.9375"></tspan></text>
+       style="stroke-width:0.9375" /></text>
 </svg>
