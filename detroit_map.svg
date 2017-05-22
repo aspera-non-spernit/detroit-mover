@@ -43,9 +43,9 @@
      id="namedview7050"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.31112698"
-     inkscape:cx="2813.3666"
-     inkscape:cy="2435.8747"
+     inkscape:zoom="0.077781745"
+     inkscape:cx="10454.826"
+     inkscape:cy="2711.0277"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -84,7 +84,7 @@
      style="fill:#b6c79b;stroke:#ab0000;stroke-width:6.99181747"
      id="rect5394" />
   <path
-     d="m 12857.085,1932.969 -1744.965,-727.793 -2123.806,169 -2759.8992,-752.37402 -807.494,1016.36332 -3832.4658,102.0854 606.842,2516.7703 -559.081,4599.836 232.079,11.785 3513.452,-1072.317 599.152,601.719 1054.642,-0.269 696.876,-1537.571 755.321,-752.403 1275.803,-384.068 1042.441,-180.914 430.337,-423.95 1628.907,-534.013 z"
+     d="M 13001.971,1704.986 11257.006,977.19305 9133.2004,1146.193 6373.3012,393.81903 l -807.494,1016.36327 -3832.4658,102.0854 606.842,2516.7703 -559.081,4599.836 232.079,11.785 3513.452,-1072.317 599.152,601.719 1054.642,-0.269 696.876,-1537.571 755.321,-752.403 1275.803,-384.068 1042.4406,-180.914 430.337,-423.95 1628.907,-534.013 z"
      style="fill:#d8d8d8;stroke:#ffffff;stroke-width:17"
      id="path5396"
      inkscape:connector-curvature="0"
@@ -476,7 +476,7 @@
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text5548">Vernor Hwy</text>
   <g
-     transform="matrix(0.065389,0,0,0.065389,8150.7759,5902.5464)"
+     transform="matrix(0.065389,0,0,0.065389,8432.0259,5865.0464)"
      id="g5554">
     <rect
        x="3612.9241"
@@ -932,7 +932,7 @@
        id="text5732">C</text>
   </g>
   <g
-     transform="translate(-532.15387,5899.7861)"
+     transform="translate(-250.90387,5862.2861)"
      id="g5740">
     <rect
        x="257.155"
@@ -2442,10 +2442,11 @@
        id="text6336">Z</text>
   </g>
   <path
-     d="m 3788.058,4234.662 c 0,0 1737.227,-33.544 1973.623,-35.051 205.994,-1.313 173.759,-14.674 312.04,87.827 185.991,137.866 274.267,206.551 416.795,315.754 189.447,145.152 175.235,171.077 223.932,261.065 185.503,342.795 380.732,681.39 521.956,936.645 69.633,125.857 75.597,100.432 268.456,62.863 103.284,-20.12 234.102,-50.706 351.105,-70.938 73.744,-12.752 119.699,-5.163 201.968,18.794 62.92,18.322 311.206,147.693 311.206,147.693"
+     d="m 3788.058,4234.662 c 0,0 1737.227,-33.544 1973.623,-35.051 205.994,-1.313 173.759,-14.674 312.04,87.827 185.991,137.866 274.267,206.551 416.795,315.754 189.447,145.152 175.235,171.077 223.932,261.065 185.503,342.795 380.732,681.39 521.956,936.645 69.633,125.857 75.597,100.432 268.456,62.863 103.284,-20.12 234.102,-50.706 351.105,-70.938 73.744,-12.752 121.3894,-6.6713 183.8886,12.7675 111.3171,34.6225 320.4931,149.5506 320.4931,149.5506 0,0 180.6924,150.4892 227.8543,233.2426 10.2271,17.9452 215.2642,472.3539 355.9553,686.9517 157.1841,239.755 263.6663,241.5227 529.4677,245.8785 651.826,10.6817 1403.886,21.7516 1403.886,21.7516"
      style="fill:none;stroke:#000263;stroke-width:17"
      id="path6346"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csscccccscsssc" />
   <rect
      transform="matrix(-0.224957,-0.974373,0.974371,-0.224965,7436.2822,6276.79)"
      x="325.23599"
@@ -2546,24 +2547,6 @@
        style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:259.98300171px"
        transform="matrix(0.071177,0,0,0.065389,8713.8604,3.971246)"
        id="text6368">D</text>
-  </g>
-  <g
-     transform="translate(-480.44174,5899.5488)"
-     id="g6376">
-    <rect
-       x="257.155"
-       y="109.782"
-       width="47.339001"
-       height="43.490002"
-       transform="matrix(1.000005,0,0,1,8712.8612,2.971249)"
-       style="fill:#000263"
-       id="rect6372" />
-    <text
-       x="3770.446"
-       y="2186.48"
-       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:259.98300171px"
-       transform="matrix(0.071177,0,0,0.065389,8713.8604,3.971246)"
-       id="text6374">D</text>
   </g>
   <rect
      transform="matrix(0.857167,-0.51504,0.515056,0.857165,6204.0142,4792.9736)"
@@ -2768,8 +2751,8 @@
      id="path6440"
      inkscape:connector-curvature="0" />
   <text
-     x="8556.6406"
-     y="6046.6572"
+     x="8837.8906"
+     y="6009.1572"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text6442">West Side Industrial</text>
   <text
@@ -4221,10 +4204,10 @@
      style="font-weight:bold;font-size:61.29999924px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#e6e6e6;fill-opacity:1"
      id="text7044">STATE FAIR GROUNDS</text>
   <text
-     x="8544.2227"
-     y="10069.763"
-     transform="matrix(0.744279,0,0,0.744285,2723.4976,-1212.1926)"
-     style="font-weight:bold;font-size:61.29999924px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#777777"
+     x="10484.021"
+     y="6577.3477"
+     transform="scale(0.99999599,1.000004)"
+     style="font-weight:bold;font-size:226.35023499px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#777777;stroke-width:3.69249988"
      id="text7046">CANADA</text>
   <text
      x="4167.27"
@@ -4246,7 +4229,7 @@
        x="3941.7512">Dearborn Central</text>
   </g>
   <g
-     transform="translate(2657.5379,2132.5139)"
+     transform="translate(3045.322,2045.7525)"
      id="g7965-5">
     <rect
        x="5729.7959"
@@ -5309,11 +5292,6 @@
      id="path6624"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccsscccccccc" />
-  <path
-     style="fill:#ffffff;stroke:#808000;stroke-width:17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 13452.181,6096.8944 v 2784.956 l -5308.2948,16.8785 V 7092.7272 L 10177.748,6113.773 Z"
-     id="path9560"
-     inkscape:connector-curvature="0" />
   <g
      id="g8175-3-6"
      transform="matrix(0.57894739,0,0,0.70000001,598.88576,498.03809)">
@@ -5891,4 +5869,82 @@
        style="font-weight:bold;font-size:36.83968735px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:17.73646736px"
        id="text6336-7">Z</text>
   </g>
+  <path
+     d="m 10868.756,7146.498 1.233,-41.8822"
+     style="fill:#080a67;fill-opacity:1;stroke:#000263;stroke-width:17;stroke-opacity:1"
+     id="path6450-3-7"
+     inkscape:connector-curvature="0" />
+  <text
+     x="8869.7734"
+     y="6657.061"
+     style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
+     transform="scale(0.999999,1.000001)"
+     id="text6740-5">Windsor</text>
+  <text
+     x="10965.305"
+     y="7148.2256"
+     style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
+     id="text6740-5-3">Windsor International Airport</text>
+  <g
+     id="g3238"
+     transform="translate(0,-1.875)">
+    <rect
+       x="10894.032"
+       y="7109.7114"
+       width="47.339237"
+       height="43.490002"
+       style="fill:#000263;stroke-width:1.0000025"
+       id="rect6372" />
+    <text
+       x="10449.81"
+       y="7453.374"
+       style="font-weight:bold;font-size:36.83968735px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:17.73646736px"
+       transform="scale(1.0433199,0.95847879)"
+       id="text6374">D</text>
+  </g>
+  <path
+     style="fill:none;stroke:#0415ff;stroke-width:6.5625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 8782.0523,6673.7793 c 0,0 105.9827,182.3794 170.4847,270.2109 131.7887,179.4548 250.2474,204.8089 541.4429,208.1574 172.2794,1.9811 4011.3581,45.9353 4011.3581,45.9353"
+     id="path3240"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssc" />
+  <rect
+     transform="matrix(0.85716663,-0.51503918,0.5150583,0.85715515,0,0)"
+     x="4079.9011"
+     y="10243.764"
+     width="80.051125"
+     height="35.485703"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.9999966"
+     rx="9.9440165"
+     ry="9.9439173"
+     id="rect6384-5" />
+  <path
+     sodipodi:type="star"
+     style="opacity:0.75099996;fill:#080a67;fill-opacity:1;stroke:#0415ff;stroke-width:1.99112594;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path3257"
+     sodipodi:sides="3"
+     sodipodi:cx="12657.029"
+     sodipodi:cy="6862.9336"
+     sodipodi:r1="19.77816"
+     sodipodi:r2="9.889082"
+     sodipodi:arg1="0.98279372"
+     sodipodi:arg2="2.0299913"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 12668,6879.39 -15.354,-7.5917 -15.354,-7.5918 14.252,-9.5011 14.252,-9.5011 1.102,17.0928 z"
+     inkscape:transform-center-x="0.10632465"
+     inkscape:transform-center-y="1.3919647"
+     transform="rotate(-178.97059,13084.29,7026.2766)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0011ff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-opacity:1"
+     x="13321.025"
+     y="7181.0166"
+     id="text3261"><tspan
+       sodipodi:role="line"
+       id="tspan3259"
+       x="13321.025"
+       y="7181.0166"
+       style="fill:#0011ff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-opacity:1">Toronto</tspan></text>
 </svg>
