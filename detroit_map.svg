@@ -43,14 +43,14 @@
      id="namedview7050"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.22"
-     inkscape:cx="7712.6368"
-     inkscape:cy="5041.1868"
+     inkscape:zoom="0.077781746"
+     inkscape:cx="7647.9517"
+     inkscape:cy="4365.7574"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7048"
-     showguides="false"
+     showguides="true"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0" />
   <defs
@@ -90,6 +90,12 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccc" />
   <path
+     d="m 6361.198,9000.979 156.592,-461.949 227.06,-54.807 367.992,-360.162 332.314,-941.268 578.935,-854.731 1555.083,-764.289 469.778,-438.459 524.585,-195.741 281.866,54.807 696.837,-101.785 39.149,-117.444 70.466,-15.66 62.637,-297.526 109.615,-180.081 461.948,-281.867 203.57,-399.311 62.638,-360.162 76.929,-297.8 73.577,-314.511 65.188,-365.215 155.253,-247.0343 97.653,-327.8917 -260.509,-171.54 195.926,-569.78 601.332,-156.437 13.901,1065.208 -32.718,4078.393 -845.6,-399.311 -884.748,-148.764 -728.155,7.83 -180.081,297.526 -422.8,7.83 -227.059,140.933 H 9665.3 l -1197.933,375.822 -477.607,454.119 -211.4,305.355 -450.7291,1082.6439 35.1956,953.0591 z"
+     style="fill:#55aeda"
+     id="path5402"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
+  <path
      d="m 3063.5301,2197.0337 8084.8949,-247.749 -247.749,454.207 1007.515,528.533 -313.817,776.282 -363.366,189.942 -270.414,57.9883 453.965,941.6879 -542.225,71.07 -314.049,-41.2361 -545.832,201.5143 -443.6533,428.5937 -1569.604,762.1975 -521.4318,807.6741 -417.2078,-132.6197 -99.099,115.616 66.068,264.267 -322.075,-57.809 -181.685,-90.841 -461.4081,865.5366 -313.2538,-306.6466 295.6799,-459.791 -189.939,-338.591 355.106,-140.392 99.101,90.842 107.357,-57.808 82.583,-181.684 -90.84,-181.683 74.323,-189.941 -280.781,-553.308 -99.1,41.293 8.256,-272.525 239.494,-140.391 v -355.108 l -1172.684,41.292 16.519,454.207 -437.691,8.259 -8.261,115.616 -462.464,8.258 v -107.358 h -41.292 v -256.008 l -635.892,66.067 -49.549,-520.275 -41.291,-652.407 -165.167,16.516 -24.776,-916.673 h -239.491 z"
      style="fill:#f2f2f2;stroke:#ffffff;stroke-width:23"
      id="path5398"
@@ -100,12 +106,6 @@
      style="fill:#aae4b2;stroke:#000000"
      id="path5400"
      inkscape:connector-curvature="0" />
-  <path
-     d="m 6361.198,9000.979 156.592,-461.949 227.06,-54.807 367.992,-360.162 332.314,-941.268 578.935,-854.731 1555.083,-764.289 469.778,-438.459 524.585,-195.741 281.866,54.807 696.837,-101.785 39.149,-117.444 70.466,-15.66 62.637,-297.526 109.615,-180.081 461.948,-281.867 203.57,-399.311 62.638,-360.162 76.929,-297.8 73.577,-314.511 65.188,-365.215 323.994,-343.458 -71.088,-231.468 -260.509,-171.54 195.926,-569.78 601.332,-156.437 13.901,1065.208 -32.718,4078.393 -845.6,-399.311 -884.748,-148.764 -728.155,7.83 -180.081,297.526 -422.8,7.83 -227.059,140.933 H 9665.3 l -1197.933,375.822 -477.607,454.119 -211.4,305.355 -450.7291,1082.6439 35.1956,953.0591 z"
-     style="fill:#55aeda"
-     id="path5402"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
   <path
      style="fill:#d8d8d8;fill-opacity:1;stroke:#ffffff;stroke-width:24.80315018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 7327.5,8045.284 715.9091,298.2955 34.0909,-213.0683 119.3182,59.6592 25.5682,-144.8864 247.159,93.75 545.4546,42.6136 1159.091,605.1137 298.296,-357.9545 451.704,-187.5 468.75,187.5 656.25,25.5681 68.182,-946.0227 230.114,-59.6591 -76.706,-400.5682 h 127.842 l -76.705,-409.0909 187.5,-119.3182 -170.454,-1048.2954 -552.314,-100.9913 -692.005,15.764 -161.931,272.7273 -477.273,25.5681 -259.943,149.1478 -541.1937,-4.2614 -1201.7043,400.5682 -426.1364,298.2954 -315.3409,468.75 -264.2045,664.7727 z"
@@ -3709,33 +3709,31 @@
      ry="18.056999"
      id="rect6860" />
   <text
-     x="-233.79303"
-     y="7191.8906"
+     x="-578.12878"
+     y="7205.9282"
      transform="matrix(0.98229166,-0.18738289,0.18738589,0.98228166,0,0)"
      style="font-size:35.99982834px;line-height:0%;white-space:pre;fill:#0011ff;stroke-width:0.99999523"
      id="text6862">Chicago , Hammond, Michigan City, New Buffalo, Niles, Dowagia, Kalamazoo, Battle Creek, Alboin,  Jackson, Ann Arbor</text>
   <text
-     x="1753.876"
-     y="6797.7051"
-     transform="matrix(0.982287,-0.187382,0.187385,0.982277,343.50641,339.31238)"
-     style="font-size:36px;line-height:0%;white-space:pre;fill:#0011ff"
+     x="1682.9332"
+     y="7201.6626"
+     transform="matrix(0.98229166,-0.18738289,0.18738589,0.98228166,0,0)"
+     style="font-size:35.99982834px;line-height:0%;white-space:pre;fill:#0011ff;stroke-width:0.99999523"
      id="text6864">Wolverine</text>
   <path
-     d="m 1466.801,714.919 15.817,31.634 h -31.634 z"
-     transform="matrix(-0.156445,-0.987679,0.987675,-0.156499,2784.2698,8251.7827)"
-     style="fill:#0011ff"
+     d="m 2923.4209,6761.9811 28.7696,-20.5728 4.949,31.2443 z"
+     style="fill:#0011ff;stroke-width:0.9999947"
      bx:shape="triangle 1450.984 714.919 31.634 31.634 0.5 0 1@0cc0ce8e"
      id="path6866"
      inkscape:connector-curvature="0" />
   <text
-     x="2322.322"
-     y="7194.7988"
+     x="1977.5498"
+     y="7201.1177"
      transform="matrix(0.98229166,-0.18738289,0.18738589,0.98228166,0,0)"
      style="font-size:35.99982834px;line-height:0%;white-space:pre;fill:#0011ff;stroke-width:0.99999523"
      id="text6868">Dearborn, Detroit , Royal Oak, Troy, Pontiac</text>
   <path
-     d="m 1466.841,714.916 15.817,31.634 h -31.634 z"
-     transform="matrix(0.207942,0.97814,-0.978134,0.207975,3972.1126,5049.7907)"
+     d="m 3240.364,6704.0623 -27.6533,22.0503 -6.578,-30.9425 z"
      style="fill:#0011ff"
      bx:shape="triangle 1451.024 714.916 31.634 31.634 0.5 0 1@3c591113"
      id="path6870"
@@ -4165,11 +4163,11 @@
      style="font-weight:bold;font-size:61.29999924px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#e6e6e6;fill-opacity:1"
      id="text7044">STATE FAIR GROUNDS</text>
   <text
-     x="10484.021"
-     y="6577.3477"
-     transform="scale(0.99999599,1.000004)"
+     x="9688.5234"
+     y="6541.189"
+     transform="scale(0.999996,1.000004)"
      style="font-weight:bold;font-size:226.35023499px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#777777;stroke-width:3.69249988"
-     id="text7046">CANADA</text>
+     id="text7046">Windsor</text>
   <text
      x="4167.27"
      y="6698.9932"
@@ -5383,7 +5381,9 @@
      x="2441.2454"
      y="7250.8984"
      style="fill:#ffffff;stroke:#090000;stroke-width:1.0002557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.9789833,-0.20394042,0.23513319,0.97196316,0,0)" />
+     transform="matrix(0.9789833,-0.20394042,0.23513319,0.97196316,0,0)"
+     ry="14.023828"
+     rx="1.4749553" />
   <circle
      cx="11849.229"
      cy="2953.5969"
@@ -5903,14 +5903,15 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0011ff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-opacity:1"
-     x="13321.025"
-     y="7175.3916"
-     id="text3261"><tspan
+     x="12673.722"
+     y="7033.4829"
+     id="text3261"
+     transform="rotate(0.54571865)"><tspan
        sodipodi:role="line"
        id="tspan3259"
-       x="13321.025"
-       y="7175.3916"
-       style="fill:#0011ff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-opacity:1">Toronto</tspan></text>
+       x="12673.722"
+       y="7033.4829"
+       style="fill:#0011ff;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-opacity:1">Chatham, London, Kitchener, Guelph, Toronto</tspan></text>
   <g
      id="g3238"
      transform="translate(-2415.4131,-1139.4059)">
@@ -5967,4 +5968,40 @@
      transform="scale(1.0000015,0.9999985)"
      style="font-size:23.00003433px;line-height:0%;white-space:pre;stroke-width:1.00000155"
      id="text6876-3-3">Windsor local tariffs or Detroit Zone C</text>
+  <path
+     d="m 2113.5609,7019.3481 28.7696,-20.5728 4.949,31.2443 z"
+     style="fill:#0011ff;stroke-width:0.9999947"
+     bx:shape="triangle 1450.984 714.919 31.634 31.634 0.5 0 1@0cc0ce8e"
+     id="path6866-3"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 2430.4119,6960.3434 -27.6533,22.0503 -6.578,-30.9425 z"
+     style="fill:#0011ff;stroke-width:1"
+     bx:shape="triangle 1451.024 714.916 31.634 31.634 0.5 0 1@3c591113"
+     id="path6870-5"
+     inkscape:connector-curvature="0" />
+  <text
+     x="813.10663"
+     y="7302.373"
+     transform="matrix(0.98229168,-0.18738289,0.18738589,0.98228165,0,0)"
+     style="font-size:35.99982834px;line-height:0%;white-space:pre;fill:#0011ff;stroke-width:0.99999523"
+     id="text6864-6">HiSpeedRail</text>
+  <text
+     x="1117.0638"
+     y="7304.27"
+     transform="matrix(0.98229168,-0.1873829,0.1873859,0.98228165,0,0)"
+     style="font-size:35.99982834px;line-height:0%;white-space:pre;fill:#0011ff;stroke-width:0.99999523"
+     id="text6868-2">Dearborn, Detroit , Windsor, WIA, Chatham, London,  Kitchener, Guelph, Toront</text>
+  <text
+     x="574.58337"
+     y="7301.8931"
+     transform="matrix(0.98229168,-0.1873829,0.1873859,0.98228165,0,0)"
+     style="font-size:35.99982834px;line-height:0%;white-space:pre;fill:#0011ff;stroke-width:0.99999523"
+     id="text6862-1">Chicago</text>
+  <text
+     x="11824.65"
+     y="8180.3804"
+     transform="scale(0.99999601,1.000004)"
+     style="font-weight:bold;font-size:226.35023499px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#777777;stroke-width:3.69249988"
+     id="text7046-2">CANADA</text>
 </svg>
