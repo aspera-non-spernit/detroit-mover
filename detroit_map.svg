@@ -43,9 +43,9 @@
      id="namedview7050"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.44"
-     inkscape:cx="1119.8435"
-     inkscape:cy="5346.1938"
+     inkscape:zoom="0.31112698"
+     inkscape:cx="8111.2872"
+     inkscape:cy="5377.5545"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -627,8 +627,8 @@
      id="path5618"
      inkscape:connector-curvature="0" />
   <text
-     x="8792.8047"
-     y="3889.5569"
+     x="8800.3047"
+     y="3910.1819"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text5620">Veterans Park</text>
   <path
@@ -637,8 +637,8 @@
      id="path5622"
      inkscape:connector-curvature="0" />
   <text
-     x="8678.582"
-     y="4091.562"
+     x="8686.082"
+     y="4108.437"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text5624">Denton St</text>
   <path
@@ -6016,4 +6016,14 @@
      y="4290.145"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ab0000;stroke-width:1"
      id="text6894-6">Livonia</text>
+  <text
+     x="7851.6553"
+     y="3722.7253"
+     style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
+     id="text5458-7">Tuxedo St</text>
+  <path
+     d="m 7793.5062,3737.5414 43.036,-23.973"
+     style="fill:none;stroke:#900000;stroke-width:17"
+     id="path5576-5"
+     inkscape:connector-curvature="0" />
 </svg>
