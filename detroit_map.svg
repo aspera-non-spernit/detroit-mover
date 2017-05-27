@@ -43,9 +43,9 @@
      id="namedview7050"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.07855103"
-     inkscape:cx="7237.3335"
-     inkscape:cy="4782.2035"
+     inkscape:zoom="0.31420412"
+     inkscape:cx="10766.409"
+     inkscape:cy="2505.0388"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -107,11 +107,17 @@
      id="path5400"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#d8d8d8;fill-opacity:1;stroke:#ffffff;stroke-width:24.80315018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#ffffff;stroke-width:24.80315018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 7327.5,8045.284 715.9091,298.2955 34.0909,-213.0683 119.3182,59.6592 25.5682,-144.8864 247.159,93.75 545.4546,42.6136 1159.091,605.1137 298.296,-357.9545 451.704,-187.5 468.75,187.5 656.25,25.5681 68.182,-946.0227 230.114,-59.6591 -76.706,-400.5682 h 127.842 l -76.705,-409.0909 187.5,-119.3182 -170.454,-1048.2954 -552.314,-100.9913 -692.005,15.764 -161.931,272.7273 -477.273,25.5681 -259.943,149.1478 -541.1937,-4.2614 -1201.7043,400.5682 -426.1364,298.2954 -315.3409,468.75 -264.2045,664.7727 z"
      id="path6790"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+  <path
+     d="m 11465.947,7004.308 c 65.822,-33.4679 49.834,-62.4913 -18.347,-176.9336 -127.027,-213.2135 -335.138,-572.6108 -336.169,-610.7505 -1.716,-63.494 39.319,-107.5382 72.342,-104.4491 62.728,-5.2349 157.877,5.9198 239.075,7.2186 90.462,15.2569 109.494,-35.956 93.629,-71.9852 -14.958,-33.9678 -342.457,-655.0326 -342.457,-655.0326 l -93.289,4.009 -143.956,267.2559 -472.086,21.6769 -270.084,153.2858 -546.1415,-4.1464 -1152.8734,380.497 c 0,0 251.2552,382.924 346.8002,520.0924 174.962,251.1841 207.89,388.0233 530.953,391.2812 496.2,5.0039 1676.6577,18.8656 1676.6577,18.8656 0,0 70.107,-3.9572 144.845,-26.7586 96.13,-29.3281 207.809,-81.9448 271.101,-114.1264 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16.99968731;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path5422-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccscccccccsscss" />
   <path
      d="m 9782.602,5670.99 180.082,-234.889 383.651,-93.955 211.4,-258.378 172.252,7.829 78.296,86.126 -39.148,86.126 78.297,31.318 109.614,-125.273 v 78.296 l -125.274,211.4 -219.229,15.659 -117.445,31.318 -70.466,86.126 -148.764,7.83 -117.444,70.467 z"
      style="fill:#e4e8e8;stroke:#ffffff;stroke-width:17;stroke-miterlimit:4;stroke-dasharray:none"
@@ -5883,10 +5889,10 @@
      style="font-size:23.00003433px;line-height:0%;white-space:pre;stroke-width:1.00000155"
      id="text6876-3">transfer to Windsor-Toronto-Line</text>
   <text
-     x="11865.374"
-     y="5859.8262"
+     x="11710.22"
+     y="5998.2676"
      style="font-weight:bold;font-size:322px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
-     id="text5412-7">C</text>
+     id="text5412-7">B</text>
   <text
      x="11722.355"
      y="6025.6289"
@@ -5894,11 +5900,11 @@
      style="font-size:23.00003433px;line-height:0%;white-space:pre;stroke-width:1.00000155"
      id="text6876-3-5" />
   <text
-     x="11773.492"
-     y="5927.6177"
+     x="11618.339"
+     y="6066.0596"
      transform="scale(1.0000015,0.9999985)"
      style="font-size:23.00003433px;line-height:0%;white-space:pre;stroke-width:1.00000155"
-     id="text6876-3-3">Windsor local tariffs or Detroit Zone C</text>
+     id="text6876-3-3" />
   <path
      d="m 2113.5609,7019.3481 28.7696,-20.5728 4.949,31.2443 z"
      style="fill:#0011ff;stroke-width:0.9999947"
@@ -5958,29 +5964,8 @@
      id="path5576-5"
      inkscape:connector-curvature="0" />
   <text
-     x="10328.772"
-     y="4885.687"
-     style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
-     id="text5556">Freud St</text>
-  <g
-     transform="matrix(0.065389,0,0,0.065389,10043.49,4740.3352)"
-     id="g5562">
-    <rect
-       x="3612.9241"
-       y="1678.911"
-       width="665.091"
-       height="665.091"
-       style="fill:#4a2d02"
-       id="rect5558" />
-    <text
-       x="3770.446"
-       y="2186.48"
-       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
-       id="text5560">A</text>
-  </g>
-  <text
-     x="10872.491"
-     y="4750.0913"
+     x="10863.116"
+     y="4748.2163"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
      id="text5556-9">Freud St</text>
   <g
@@ -6072,7 +6057,7 @@
      id="text6740-5-3-3">Tecomseh Rd E</text>
   <path
      style="fill:none;stroke:#4a2d02;stroke-width:15.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 11268.753,5593.2783 42.587,-22.2309"
+     d="m 11270.628,5591.4033 42.587,-22.2309"
      id="path6000-6"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
@@ -6081,4 +6066,53 @@
      y="5575.7588"
      style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
      id="text6740-5-3-3-0">Cedarview St</text>
+  <text
+     x="11070.35"
+     y="5990.4214"
+     style="font-weight:bold;font-size:322px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
+     id="text5408-2">A</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+     x="11682.047"
+     y="6048.3687"
+     id="text6067"><tspan
+       sodipodi:role="line"
+       id="tspan6065"
+       x="11682.047"
+       y="6048.3687"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.9375">Windsor Zone B</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+     x="11053.059"
+     y="6045.4702"
+     id="text6067-6"><tspan
+       sodipodi:role="line"
+       id="tspan6065-1"
+       x="11053.059"
+       y="6045.4702"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.9375">Windsor Zone A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+     x="9435.8438"
+     y="5227.6279"
+     id="text6067-6-8"><tspan
+       sodipodi:role="line"
+       id="tspan6065-1-7"
+       x="9435.8438"
+       y="5227.6279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.9375">Detroit Zone A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+     x="10250.468"
+     y="4839.7427"
+     id="text6067-6-8-9"><tspan
+       sodipodi:role="line"
+       id="tspan6065-1-7-2"
+       x="10250.468"
+       y="4839.7427"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.9375">Detroit Zone B</tspan></text>
 </svg>
