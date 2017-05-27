@@ -43,9 +43,9 @@
      id="namedview7050"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.31112698"
-     inkscape:cx="8111.2872"
-     inkscape:cy="5377.5545"
+     inkscape:zoom="0.07855103"
+     inkscape:cx="7237.3335"
+     inkscape:cy="4782.2035"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -84,13 +84,13 @@
      style="fill:#b6c79b;stroke:#ab0000;stroke-width:6.99181747"
      id="rect5394" />
   <path
-     d="M 13001.971,1704.986 11257.006,977.19305 9133.2004,1146.193 6373.3012,393.81903 l -807.494,1016.36327 -3832.4658,102.0854 606.842,2516.7703 -559.081,4599.836 232.079,11.785 3513.452,-1072.317 599.152,601.719 1054.642,-0.269 696.876,-1537.571 755.321,-752.403 1275.803,-384.068 1042.4406,-180.914 430.337,-423.95 1628.907,-534.013 z"
+     d="M 13001.971,1704.986 11257.006,977.19305 9133.2004,1146.193 6373.3012,393.81903 l -807.494,1016.36327 -3832.4658,102.0854 606.842,2516.7703 -559.081,4599.836 232.079,11.785 3513.452,-1072.317 599.152,601.719 1054.642,-0.269 696.876,-1537.571 755.321,-752.403 1275.803,-384.068 1042.4406,-180.914 430.337,-423.95 73.823,57.3488 1555.084,-591.3618 z"
      style="fill:#d8d8d8;stroke:#ffffff;stroke-width:17"
      id="path5396"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccc" />
+     sodipodi:nodetypes="cccccccccccccccccccc" />
   <path
-     d="m 6361.198,9000.979 156.592,-461.949 227.06,-54.807 367.992,-360.162 332.314,-941.268 578.935,-854.731 1555.083,-764.289 469.778,-438.459 524.585,-195.741 281.866,54.807 696.837,-101.785 39.149,-117.444 70.466,-15.66 62.637,-297.526 109.615,-180.081 461.948,-281.867 203.57,-399.311 62.638,-360.162 76.929,-297.8 73.577,-314.511 65.188,-365.215 155.253,-247.0343 97.653,-327.8917 -260.509,-171.54 195.926,-569.78 601.332,-156.437 13.901,1065.208 -32.718,4078.393 -845.6,-399.311 -884.748,-148.764 -728.155,7.83 -180.081,297.526 -422.8,7.83 -227.059,140.933 H 9665.3 l -1197.933,375.822 -477.607,454.119 -211.4,305.355 -450.7291,1082.6439 35.1956,953.0591 z"
+     d="m 6361.198,9000.979 156.592,-461.949 227.06,-54.807 367.992,-360.162 332.314,-941.268 578.935,-854.731 1555.083,-764.289 469.778,-438.459 524.585,-195.741 281.866,54.807 702.14,-91.1784 33.846,-128.0506 70.466,-15.66 62.637,-297.526 109.615,-180.081 461.948,-281.867 203.57,-399.311 62.638,-360.162 76.929,-297.8 73.577,-314.511 65.188,-365.215 155.253,-247.0343 97.653,-327.8917 -260.509,-171.54 195.926,-569.78 601.332,-156.437 13.901,1065.208 -32.718,4078.393 -845.6,-399.311 -884.748,-148.764 -728.155,7.83 -180.081,297.526 -422.8,7.83 -227.059,140.933 H 9665.3 l -1197.933,375.822 -477.607,454.119 -211.4,305.355 -450.7291,1082.6439 35.1956,953.0591 z"
      style="fill:#55aeda"
      id="path5402"
      inkscape:connector-curvature="0"
@@ -174,11 +174,11 @@
      style="font-weight:bold;font-size:61.29999924px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#e6e6e6"
      id="text5420">EASTERN MARKET</text>
   <path
-     d="m 10823.066,4736.965 c -79.287,-55.0634 -184.761,-132.475 -184.761,-132.475 -184.676,-256.9465 -280.417,-356.7343 -199.96,-403.869 78.964,-51.018 59.7,-101.3428 -18.875,-242.0118 -38.834,-45.17 -218.885,-122.0632 -352.285,-194.2662 -212.375,-312.409 -150.243,-283.221 -374.431,-287.755 -148.147,-2.996 -243.171,4.273 -444.523,5.316 -229.653,1.19 -191.4,-129.694 -197.769,-366.133 -2.477,-91.931 12.465,-83.642 -97.799,-212.417 -74.795,-87.351 -147.932,-55.54 -313.597,-60.84 -217.432,10.236 -229.67,-10.64 -356.457,48.151 -137.603,68.353 -354.519,180.293 -354.519,180.293 -100.07,50.681 -95.994,-46.09 -211.212,13.358 -68.597,35.393 -198.805,101.272 -226.779,115.009 -106.031,52.546 -95.294,151.434 -231.326,218.312 -71.026,38.098 -499.597,246.899 -703.586,353.64 -160.218,85.368 -145.56,97.231 -146.544,211.482 -1.549,179.858 16.726,358.426 16.533,539.124 -0.111,104.711 173.345,161.635 227.086,268.67 109.872,218.83 301.609,545.833 442.306,802.849 180.595,329.898 168.963,341.782 294.378,316.109 190.397,-38.975 301.006,-57.512 450.768,-91.017 146.811,-32.844 298.127,52.872 298.127,52.872 l 205.913,100.1355 c 0,0 25.8007,40.1233 66.188,102.6486 113.1439,175.163 340.7673,526.143 436.312,663.3114 174.9623,251.1841 207.8893,388.0233 530.9532,391.2812 496.1994,5.0039 1488.6178,12.8911 1488.6178,12.8911"
+     d="m 11469.811,7006.7233 c 65.822,-33.4679 49.834,-62.4913 -18.347,-176.9336 -127.027,-213.2135 -335.138,-572.6108 -336.169,-610.7505 -1.716,-63.494 39.319,-107.5382 72.342,-104.4491 62.728,-5.2349 157.877,5.9198 239.075,7.2186 90.462,15.2569 109.494,-35.956 93.629,-71.9851 -14.958,-33.9679 -329.126,-623.2996 -338.707,-640.0327 -83.531,-145.8857 -349.466,-657.1676 -366.906,-669.5931 -64.13,-45.6912 -176.423,-135.7078 -176.423,-135.7078 -184.676,-256.9465 -280.417,-356.7343 -199.96,-403.869 78.964,-51.018 59.7,-101.3428 -18.875,-242.0118 -38.834,-45.17 -218.885,-122.0632 -352.285,-194.2662 -212.375,-312.409 -150.243,-283.221 -374.431,-287.755 -148.147,-2.996 -243.171,4.273 -444.523,5.316 -229.653,1.19 -191.4,-129.694 -197.769,-366.133 -2.477,-91.931 12.465,-83.642 -97.799,-212.417 -74.795,-87.351 -147.932,-55.54 -313.597,-60.84 -217.432,10.236 -229.67,-10.64 -356.457,48.151 -137.603,68.353 -354.519,180.293 -354.519,180.293 -100.07,50.681 -95.994,-46.09 -211.212,13.358 -68.597,35.393 -198.805,101.272 -226.779,115.009 -106.031,52.546 -95.294,151.434 -231.326,218.312 -71.026,38.098 -499.597,246.899 -703.586,353.64 -160.218,85.368 -145.56,97.231 -146.544,211.482 -1.549,179.858 16.726,358.426 16.533,539.124 -0.111,104.711 173.345,161.635 227.086,268.67 109.872,218.83 301.609,545.833 442.306,802.849 180.595,329.898 168.963,341.782 294.378,316.109 190.397,-38.975 301.006,-57.512 450.768,-91.017 146.811,-32.844 298.127,52.872 298.127,52.872 l 205.913,100.1355 c 0,0 25.8007,40.1233 66.188,102.6486 113.1439,175.163 340.7673,526.143 436.312,663.3114 174.9623,251.1841 207.8893,388.0233 530.9532,391.2812 496.1994,5.0039 1676.6578,18.8656 1676.6578,18.8656 0,0 70.107,-3.9572 144.845,-26.7586 96.13,-29.3281 207.809,-81.9448 271.101,-114.1264 z"
      style="fill:none;stroke:#4a2d02;stroke-width:17;stroke-linecap:square;stroke-linejoin:round"
      id="path5422"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccsccccccccccscscscccsssc" />
+     sodipodi:nodetypes="sssccscsccccsccccccccccscscscccssscss" />
   <path
      d="M 4276.843,2884.424"
      style="fill:none;stroke:#000000"
@@ -230,8 +230,8 @@
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text5442">Woodward @ McNichols Rd</text>
   <text
-     x="7034.248"
-     y="3157.176"
+     x="6991.3257"
+     y="3188.782"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text5444">Bartlett Station</text>
   <text
@@ -482,27 +482,6 @@
      y="5827.8032"
      style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
      id="text5548">Vernor Hwy</text>
-  <text
-     x="10891.724"
-     y="4775.9224"
-     style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre"
-     id="text5556">Freud St</text>
-  <g
-     transform="matrix(0.065389,0,0,0.065389,10606.442,4630.5707)"
-     id="g5562">
-    <rect
-       x="3612.9241"
-       y="1678.911"
-       width="665.091"
-       height="665.091"
-       style="fill:#4a2d02"
-       id="rect5558" />
-    <text
-       x="3770.446"
-       y="2186.48"
-       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
-       id="text5560">A</text>
-  </g>
   <path
      d="m 8719.413,5571.73 43.036,-23.973"
      style="fill:none;stroke:#900000;stroke-width:17"
@@ -3960,38 +3939,6 @@
        style="font-weight:bold;font-size:74.29724884px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:0.22931249"
        id="text6952">SEE 4</text>
   </g>
-  <g
-     id="g8766">
-    <rect
-       x="7380.8867"
-       y="3116.0039"
-       width="88.755989"
-       height="34.176754"
-       style="fill:#ab0000;stroke-width:0.08204759"
-       id="rect6962" />
-    <text
-       transform="scale(0.9999865,1.0000135)"
-       x="7388.5903"
-       y="3142.0225"
-       style="font-weight:bold;font-size:24.00483513px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:0.074089"
-       id="text6964">SEE 4</text>
-  </g>
-  <g
-     id="g8760">
-    <rect
-       x="7380.3428"
-       y="3156.092"
-       width="87.66375"
-       height="34.176754"
-       style="fill:#ab0000;stroke-width:0.08154118"
-       id="rect6968" />
-    <text
-       transform="scale(0.9999865,1.0000135)"
-       x="7388.0469"
-       y="3182.1101"
-       style="font-weight:bold;font-size:24.00483513px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:0.074089"
-       id="text6970">SEE 5</text>
-  </g>
   <path
      d="m 9261.149,4666.6915 31.911,13.677"
      style="fill:none;stroke:#8a7189;stroke-width:17"
@@ -5832,8 +5779,8 @@
      transform="scale(0.999999,1.000001)"
      id="text6740-5">Windsor</text>
   <text
-     x="10965.305"
-     y="7148.2256"
+     x="10230.075"
+     y="7081.9341"
      style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
      id="text6740-5-3">Windsor International Airport</text>
   <path
@@ -5929,22 +5876,6 @@
        transform="scale(1.0433199,0.95847879)"
        id="text6374">D</text>
   </g>
-  <g
-     transform="matrix(0.065389,0,0,0.065389,10654.824,6996.4483)"
-     id="g5554">
-    <rect
-       x="3612.9241"
-       y="1678.911"
-       width="665.091"
-       height="665.091"
-       style="fill:#4a2d02"
-       id="rect5550" />
-    <text
-       x="3770.446"
-       y="2186.48"
-       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
-       id="text5552">A</text>
-  </g>
   <text
      x="8870.6006"
      y="6692.9907"
@@ -6026,4 +5957,128 @@
      style="fill:none;stroke:#900000;stroke-width:17"
      id="path5576-5"
      inkscape:connector-curvature="0" />
+  <text
+     x="10328.772"
+     y="4885.687"
+     style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
+     id="text5556">Freud St</text>
+  <g
+     transform="matrix(0.065389,0,0,0.065389,10043.49,4740.3352)"
+     id="g5562">
+    <rect
+       x="3612.9241"
+       y="1678.911"
+       width="665.091"
+       height="665.091"
+       style="fill:#4a2d02"
+       id="rect5558" />
+    <text
+       x="3770.446"
+       y="2186.48"
+       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
+       id="text5560">A</text>
+  </g>
+  <text
+     x="10872.491"
+     y="4750.0913"
+     style="font-weight:bold;font-size:36px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:1"
+     id="text5556-9">Freud St</text>
+  <g
+     transform="matrix(0.065389,0,0,0.065389,10616.79,6939.9998)"
+     id="g5554">
+    <rect
+       x="3612.9241"
+       y="1678.911"
+       width="665.091"
+       height="665.091"
+       style="fill:#4a2d02"
+       id="rect5550" />
+    <text
+       x="3770.446"
+       y="2186.48"
+       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
+       id="text5552">A</text>
+  </g>
+  <g
+     id="g8766"
+     transform="translate(-60.92148,2.0564098)">
+    <rect
+       x="7380.8867"
+       y="3116.0039"
+       width="88.755989"
+       height="34.176754"
+       style="fill:#ab0000;stroke-width:0.08204759"
+       id="rect6962" />
+    <text
+       transform="scale(0.9999865,1.0000135)"
+       x="7388.5903"
+       y="3142.0225"
+       style="font-weight:bold;font-size:24.00483513px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:0.074089"
+       id="text6964">SEE 4</text>
+  </g>
+  <g
+     id="g8760"
+     transform="translate(-59.04648,2.0564098)">
+    <rect
+       x="7380.3428"
+       y="3156.092"
+       width="87.66375"
+       height="34.176754"
+       style="fill:#ab0000;stroke-width:0.08154118"
+       id="rect6968" />
+    <text
+       transform="scale(0.9999865,1.0000135)"
+       x="7388.0469"
+       y="3182.1101"
+       style="font-weight:bold;font-size:24.00483513px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff;stroke-width:0.074089"
+       id="text6970">SEE 5</text>
+  </g>
+  <g
+     transform="matrix(0.065389,0,0,0.065389,7187.8036,3039.1749)"
+     id="g5562-1">
+    <rect
+       x="3612.9241"
+       y="1678.911"
+       width="665.091"
+       height="665.091"
+       style="fill:#4a2d02"
+       id="rect5558-2" />
+    <text
+       x="3770.446"
+       y="2186.48"
+       style="font-weight:bold;font-size:540px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;fill:#ffffff"
+       id="text5560-7">A</text>
+  </g>
+  <path
+     d="m 9807.4767,7135.8578 1.233,-41.8822"
+     style="fill:#080a67;fill-opacity:1;stroke:#4a2d02;stroke-width:17;stroke-opacity:1"
+     id="path6450-3-7-0"
+     inkscape:connector-curvature="0" />
+  <text
+     x="9552.4863"
+     y="7081.4585"
+     style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
+     id="text6740-5-3-9">Optimist Memorial Park</text>
+  <path
+     style="fill:none;stroke:#4a2d02;stroke-width:15.93749982;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 11230.342,6456.8261 42.587,-22.2309"
+     id="path6000"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="11297.944"
+     y="6439.3066"
+     style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
+     id="text6740-5-3-3">Tecomseh Rd E</text>
+  <path
+     style="fill:none;stroke:#4a2d02;stroke-width:15.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11268.753,5593.2783 42.587,-22.2309"
+     id="path6000-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="11336.354"
+     y="5575.7588"
+     style="font-weight:bold;font-size:35.99996567px;line-height:0%;font-family:'Roboto Condensed';white-space:pre;stroke-width:0.99999905"
+     id="text6740-5-3-3-0">Cedarview St</text>
 </svg>
